@@ -31,11 +31,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://bit.dev/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bit.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
         <a href="https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vueschool.png">
         </a>
@@ -50,8 +45,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nativescript.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://retool.com/?utm_source=sponsor&utm_campaign=vue" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/retool.png">
@@ -236,6 +229,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/staff_augmentation.png">
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://piratebay.ink" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/piratebay_proxy.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.programmers.io" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/programmers_io.png">
+        </a>
+      </td>
     </tr><tr></tr>
   </tbody>
 </table>
@@ -266,6 +269,11 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       <td align="center" valign="middle">
         <a href="https://dopamine.bg/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/dopamine.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://roadster.com" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/roadster.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -362,66 +370,66 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Masahiro Tanaka
 - Shawn Wildermuth
 - Sean Washington
-- Lars Andreas Ness
-- Keisuke Kita
 - Benjamin Listwon
+- Keisuke Kita
+- Lars Andreas Ness
 - Kirk Lewis
-- Wen-Tien Chang
 - Victor Tolbert
+- Wen-Tien Chang
 - Stephen Michael Hartley
 - Phan An
+- Luiz
 - James J. Ye
 - Barbara Liau
 - Matsumoto Takamasa
-- Guy Gavergun
 - Matt Jones
 - Niannian Modisette
 - Duncan Kenzie
+- Guy Gavergun
 - Bernhard E. Reiter
 - Zoran Knezevic
 - Jon Hobbs-Smith
 - Pierre Vanhulst
 - Asaf Yishai
 - Haim Yulzari
-- Anthony Estebe
 - Akiho Nagao
+- Anthony Estebe
 - Jim Raden
 - Jeremy Tan
 - IMGNRY
 - Tyler
-- Rob Yedlin
 - Guilherme S L de Souza
 - Mickaël Andrieu
 - Vivekanandhan Natarajan
+- Rob Yedlin
 - Joe Gregory
 - Jordan Oroshiba
 - Marcos Moura
 - Jessie Hernandez
-- Ivan Sieder
 - Eric
+- Ivan Sieder
 - Romain Lienard
+- username
 - Bohdan Kokotko
-- Christo Crampton
-- Oskar Lindgren
 - Wakana Seki
 - Alexander Weiher
-- Donald Fischer
-- Jere Sjöroos
 - David Ang
-- David Kaplan
-- Jaeyoung Lee
-- Shapovalov Pavel
+- Donald Fischer
+- Oskar Lindgren
+- Jere Sjöroos
 - Domenico Gaudioso
+- Jaeyoung Lee
+- David Kaplan
 - Andy
 - Matt Sencenbaugh
-- Chris Calo
-- Elon Hung
-- Hannes Kochniß
-- Daniel Mattingley
 - Juan Bermudez
+- Hannes Kochniß
+- Elon Hung
+- Daniel Mattingley
+- Chris Calo
 - Soichiro Isshiki
-- Garion Herman
 - Ed Linklater
+- Garion Herman
 - Andrew Willis
 - Princeyesuraj Edward
 - Yusuke Kawabata
@@ -434,15 +442,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Bill Condo
 - Pierre Lebrun
 - John Thompson
-- Martin Bastien
 - Ryan Brewer
-- Bichinger Software & Consulting
-- Merott Movahedi
+- Martin Bastien
 - Alfonso Herrera
+- Bichinger Software & Consulting
 - Abhay
-- Afif Sohaili
 - Nicolaas
 - Riki Fridrich
+- Afif Sohaili
+- Diana Bergholz
+- Tomasz Kleszczewski
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
