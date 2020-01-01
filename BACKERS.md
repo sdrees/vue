@@ -41,13 +41,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.nativescript.org/vue?utm_source=vue-js-org&utm_medium=website&utm_campaign=nativescript-awareness" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nativescript.png">
+        <a href="https://retool.com/?utm_source=sponsor&utm_campaign=vue" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/retool.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://retool.com/?utm_source=sponsor&utm_campaign=vue" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/retool.png">
+        <a href="https://passionatepeople.io/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -156,11 +156,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://passionatepeople.io/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
         <a href="http://en.shopware.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/shopware_ag.png">
         </a>
@@ -175,13 +170,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/energy_comparison.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://www.bacancytechnology.com" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
         </a>
       </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://www.bestvpn.co/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bestvpn_co.png">
@@ -207,13 +202,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/usave.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://www.dailynow.co/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/daily.png">
         </a>
       </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://storekit.com" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storekit.png">
@@ -360,79 +355,80 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Masahiro Tanaka
 - Shawn Wildermuth
 - Sean Washington
-- Keisuke Kita
 - Lars Andreas Ness
+- Keisuke Kita
 - Benjamin Listwon
 - Kirk Lewis
-- Victor Tolbert
 - Wen-Tien Chang
 - Stephen Michael Hartley
+- Victor Tolbert
 - Luiz
 - Barbara Liau
 - James J. Ye
 - Matsumoto Takamasa
 - Guy Gavergun
-- Niannian Modisette
 - Matt Jones
+- Niannian Modisette
 - Bernhard E. Reiter
+- Pierre Vanhulst
 - Zoran Knezevic
 - Jon Hobbs-Smith
-- Pierre Vanhulst
-- Anthony Estebe
 - Asaf Yishai
+- Anthony Estebe
 - Haim Yulzari
 - Akiho Nagao
-- Jim Raden
 - Jeremy Tan
+- Jim Raden
 - IMGNRY
 - Tyler
-- Guilherme S L de Souza
 - Vivekanandhan Natarajan
+- Guilherme S L de Souza
 - Mickaël Andrieu
-- username
 - Jordan Oroshiba
 - Joe Gregory
+- username
 - Marcos Moura
 - Jessie Hernandez
-- Eric
-- Christo Crampton
-- Bohdan Kokotko
 - Romain Lienard
-- Oskar Lindgren
+- Christo Crampton
+- Eric
+- Donald Fischer
+- Bohdan Kokotko
 - Jere Sjöroos
+- Oskar Lindgren
+- Alexander Weiher
 - David Ang
 - Wakana Seki
-- Alexander Weiher
-- Donald Fischer
-- Jaeyoung Lee
 - David Kaplan
+- Jaeyoung Lee
 - Andy
 - Matt Sencenbaugh
 - Juan Bermudez
 - Hannes Kochniß
-- Daniel Mattingley
 - Elon Hung
+- Daniel Mattingley
 - Chris Calo
 - Soichiro Isshiki
-- Ed Linklater
 - Garion Herman
+- Ed Linklater
+- Andrew Willis
 - Yusuke Kawabata
 - Princeyesuraj Edward
-- Nick Dandakis
 - 龙腾道
 - Peter Matkovsky
+- Nick Dandakis
 - Fabien GuySake Ungerer
+- Nathan Mallison
 - Kenneth Crawford
 - Bill Condo
-- Nathan Mallison
 - Pierre Lebrun
-- Ryan Brewer
 - Martin Bastien
 - Alfonso Herrera
 - Bichinger Software & Consulting
-- Riki Fridrich
+- Ryan Brewer
 - Nicolaas
 - Afif Sohaili
+- Riki Fridrich
 - Tomasz Kleszczewski
 - Diana Bergholz
 - darkbluewalrus
@@ -441,6 +437,9 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - 琚致远
 - Roy Segall
 - Ronni Lin
+- DrevanTonder
+- tfox
+- Jan Kuku
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
