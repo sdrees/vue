@@ -21,7 +21,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
     <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/stdlib.png">
   </a>
 </p>
-  
+
 <!--special end-->
 
 <h2 align="center">Platinum via Patreon</h2>
@@ -156,13 +156,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.simplyswitch.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/energy_comparison.png">
+        <a href="https://www.bacancytechnology.com" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.bacancytechnology.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
+        <a href="https://www.bestvpn.co/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bestvpn_co.png">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -210,8 +210,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.programmers.io" target="_blank">
+        <a href="https://www.programmers.io/vuejs/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/programmers_io.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.vuescreencasts.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/happy_programmer_llc.png">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -337,10 +342,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Wasim Khamlichi
 - errorrik
 - Konstantin Levinski
-- Blaise Laflamme
 - Sean Ferguson
 - Johnny Ray Austin
-- Daniel
 - Manuel Guzman
 <!--50 end-->
 
@@ -350,60 +353,56 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Masahiro Tanaka
 - Shawn Wildermuth
 - Keisuke Kita
-- Benjamin Listwon
 - Lars Andreas Ness
+- Benjamin Listwon
 - Kirk Lewis
-- Victor Tolbert
 - Stephen Michael Hartley
+- Victor Tolbert
 - Wen-Tien Chang
 - Luiz
-- Barbara Liau
 - James J. Ye
+- Barbara Liau
 - Matsumoto Takamasa
-- Matt Jones
-- Guy Gavergun
 - Niannian Modisette
+- Guy Gavergun
+- Matt Jones
 - Bernhard E. Reiter
 - Zoran Knezevic
 - Jon Hobbs-Smith
 - Pierre Vanhulst
+- Akiho Nagao
 - Asaf Yishai
 - Haim Yulzari
 - Anthony Estebe
-- Akiho Nagao
 - Jim Raden
 - Jeremy Tan
+- username
 - IMGNRY
 - Tyler
-- username
-- Mickaël Andrieu
 - Guilherme S L de Souza
+- Mickaël Andrieu
 - Joe Gregory
 - Jordan Oroshiba
 - Marcos Moura
 - Jessie Hernandez
 - Eric
 - Bohdan Kokotko
-- Christo Crampton
-- Romain Lienard
+- Alexander Weiher
 - David Ang
 - Oskar Lindgren
 - Donald Fischer
-- Wakana Seki
-- Alexander Weiher
 - Jere Sjöroos
-- David Kaplan
+- Wakana Seki
 - Jaeyoung Lee
+- David Kaplan
 - Andy
 - Matt Sencenbaugh
-- Elon Hung
+- Juan Bermudez
 - Chris Calo
+- Elon Hung
 - Hannes Kochniß
 - Daniel Mattingley
-- Juan Bermudez
 - Soichiro Isshiki
-- Garion Herman
-- Ed Linklater
 - Andrew Willis
 - Yusuke Kawabata
 - Princeyesuraj Edward
@@ -418,19 +417,17 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Martin Bastien
 - Alfonso Herrera
 - Bichinger Software & Consulting
-- Riki Fridrich
-- Nicolaas
 - Afif Sohaili
-- Tomasz Kleszczewski
+- Nicolaas
+- Riki Fridrich
 - Diana Bergholz
 - darkbluewalrus
 - Parham
 - Allan McKernan
 - 琚致远
+- Tomasz Kleszczewski
 - Roy Segall
 - Ronni Lin
-- DrevanTonder
-- tfox
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
