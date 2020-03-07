@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/vuejs/vue/tree/dev/packages/weex-template-compiler#readme",
   "dependencies": {
-    "acorn": "^5.2.1",
+    "acorn": "^7.1.1",
     "escodegen": "^1.8.1",
     "he": "^1.1.0"
   }
