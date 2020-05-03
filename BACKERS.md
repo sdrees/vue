@@ -18,7 +18,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <p align="center">
   <a href="https://autocode.com" target="_blank">
-    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/autocode.svg">
+    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/autocode.svg?sanitize=true">
   </a>
 </p>
   
@@ -136,11 +136,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://devsquad.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/devsquad.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
         <a href="https://www.firesticktricks.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/firestick_tricks.png">
         </a>
@@ -150,21 +145,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/intygrate.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="http://en.shopware.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/shopware_ag.png">
         </a>
       </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://www.vpnranks.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpnranks.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.bacancytechnology.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -182,11 +172,9 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/devexpress.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://fastcoding.jp/javascript/ " target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg?sanitize=true">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -194,9 +182,11 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/usave.png">
         </a>
       </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="http://www.pullrequest.com" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/pullrequest.svg">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/pullrequest.svg?sanitize=true">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -212,6 +202,11 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       <td align="center" valign="middle">
         <a href="https://www.primefaces.org/primevue" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/primevue.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://cooltechzone.com/netflix-vpn" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/netflix_vpn.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -330,7 +325,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <!--50 start-->
 - Wasim Khamlichi
-- errorrik
+- errorrik 
 - Konstantin Levinski
 - Sean Ferguson
 - Johnny Ray Austin
@@ -343,86 +338,85 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Masahiro Tanaka
 - Shawn Wildermuth
 - Keisuke Kita
-- Benjamin Listwon
 - Lars Andreas Ness
+- Benjamin Listwon
 - Kirk Lewis
+- Victor Tolbert
 - Wen-Tien Chang
 - Stephen Michael Hartley
-- Victor Tolbert
-- Luiz Tanure
-- Barbara Liau
+- Luiz 
 - James J. Ye
+- Barbara Liau
 - Matsumoto Takamasa
-- Matt Jones
 - Guy Gavergun
+- Matt Jones
 - Niannian Modisette
 - Bernhard E. Reiter
-- Zoran Knezevic
 - Asaf Yishai
-- username
+- username 
+- Zoran Knezevic
 - Jon Hobbs-Smith
 - Pierre Vanhulst
+- Akiho Nagao
 - Anthony Estebe
 - Haim Yulzari
-- Akiho Nagao
 - Jim Raden
 - Jeremy Tan
-- IMGNRY
-- Tyler
-- Mickaël Andrieu
+- IMGNRY 
+- Tyler 
 - Guilherme S L de Souza
 - Vivekanandhan Natarajan
 - Joe Gregory
 - Jordan Oroshiba
 - Marcos Moura
 - Jessie Hernandez
-- Eric
+- Eric 
 - Bohdan Kokotko
+- Oskar Lindgren
 - Jere Sjöroos
 - Donald Fischer
-- David Ang
-- Oskar Lindgren
-- Wakana Seki
 - Alexander Weiher
+- Wakana Seki
+- David Ang
 - Jaeyoung Lee
 - David Kaplan
+- Andy 
 - Philip John Basile
-- Andy
 - Matt Sencenbaugh
+- Juan Bermudez
 - Elon Hung
+- Chris Calo
 - Daniel Mattingley
 - Hannes Kochniß
-- Juan Bermudez
-- Chris Calo
 - Soichiro Isshiki
 - Andrew Willis
 - Yusuke Kawabata
 - Nick Dandakis
 - Peter Matkovsky
-- 龙腾道
+- 龙腾道 
 - Fabien GuySake Ungerer
 - Bill Condo
-- Nathan Mallison
 - Pierre Lebrun
 - Ryan Brewer
 - Martin Bastien
 - Alfonso Herrera
 - Bichinger Software & Consulting
-- Nicolaas
-- Riki Fridrich
 - Afif Sohaili
-- Parham
+- Nicolaas 
+- Riki Fridrich
 - Tomasz Kleszczewski
-- 琚致远
-- Allan McKernan
+- 琚致远 
 - Diana Bergholz
-- Ronni Lin
+- Parham 
+- Allan McKernan
 - Roy Segall
-- Santi Sanchez Canals
+- Ronni Lin
 - Thomas Wiedemann
+- lucien144 
 - Nobuhide Esaki
-- lucien144
+- Santi Sanchez Canals
 - Zeth Odderskov
+- Evgeny Zislis
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
